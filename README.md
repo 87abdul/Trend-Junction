@@ -1,7 +1,36 @@
 # 🌐 Trend-Junction 
 
  #### Welcome to our powerful e-commerce platform! This project provides essential features like product listings, cart management, secure checkout, and an admin panel for efficient order and product management. Dive into the world of modern web development with a tech stack that includes React 18, Tailwind CSS, Redux Toolkit, Express, and MongoDB.
+ 
 
+### User Login
+
+![User Login](images/user_login.png)
+
+### Admin Login
+
+![Admin Login](images/admin_login.png)
+
+### Category
+
+![category wise](images/category_wise.png)
+
+### Sort
+
+![sort](images/sort.png)
+
+
+### Product Details
+
+![product_details](images/product_details.png)
+
+### Order Details
+
+![order_id](images/order_id.png)
+
+### Order Mail
+
+![order_mail](images/order_mail.png)
 # Features 💡
 ##### Basic E-commerce Features:
 ##### Product lists, details, cart, and checkout.
