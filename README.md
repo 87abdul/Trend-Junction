@@ -5,6 +5,14 @@
 ### Youtube Link : https://youtu.be/CA3w98k7Vbc
 ### Live Link : https://trend-junction-web.vercel.app/
 
+
+### Page Speed Analysis by Google PageSpeed Insights : 
+
+Desktop
+![page_speed](images/page_speed.png)
+
+Mobile
+![page_speed_mobile](images/page_speed_mobile.png)
 # Features 💡
 ##### Basic E-commerce Features:
 ##### Product lists, details, cart, and checkout.
