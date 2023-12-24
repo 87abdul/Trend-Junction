@@ -2,9 +2,11 @@
 
  #### Welcome to our powerful e-commerce platform! This project provides essential features like product listings, cart management, secure checkout, and an admin panel for efficient order and product management. Dive into the world of modern web development with a tech stack that includes React 18, Tailwind CSS, Redux Toolkit, Express, and MongoDB.
 
-### Youtube Link : https://youtu.be/CA3w98k7Vbc
-### Live Link : https://trend-junction-web.vercel.app/
+#### Youtube Link : https://youtu.be/CA3w98k7Vbc
+#### Live Link : https://trend-junction-web.vercel.app/
 
+#### Client : https://github.com/87abdul/Trend-Junction-Client
+#### Server : https://github.com/87abdul/Trend-Junction-Server
 
 ### Page Speed Analysis by Google PageSpeed Insights : 
 
